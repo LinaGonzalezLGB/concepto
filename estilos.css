@@ -1,0 +1,18 @@
+body{background-color: yellowgreen;
+
+}
+h1{
+	text-align: center;
+}
+p, code {
+	font-size: 105px;
+}
+.cur2{
+	color: blue;
+	font-size: 64px;
+}
+.cur1 {
+	color: yellow ;
+	background-color:#22ce61 ;
+	font-size:991px ; 
+}  
